@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/CppEndlessRunner/CppEndlessRunner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/CppEndlessRunner/CppEndlessRunner/Content/Levels/MainLevel.umap",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/CppEndlessRunner/CppEndlessRunner/Content/Actors/BP_RunCharacter.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/CppEndlessRunner/CppEndlessRunner/Content/Controllers/BP_RunCharacterController.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/CppEndlessRunner/CppEndlessRunner/Content/GameModes/BP_RunGameMode.uasset"
+			]
+		}
+	]
+}

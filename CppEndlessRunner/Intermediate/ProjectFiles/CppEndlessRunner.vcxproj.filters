@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CppEndlessRunner.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CppEndlessRunner.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CppEndlessRunnerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CppEndlessRunner">
+      <UniqueIdentifier>{B2667853-FC3E-32BD-BE72-4408E5EB672D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CppEndlessRunner\CppEndlessRunner.Build.cs">
+      <Filter>Source\CppEndlessRunner</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CppEndlessRunner\CppEndlessRunner.cpp">
+      <Filter>Source\CppEndlessRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppEndlessRunner\CppEndlessRunner.h">
+      <Filter>Source\CppEndlessRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CppEndlessRunner\CppEndlessRunnerCharacter.cpp">
+      <Filter>Source\CppEndlessRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppEndlessRunner\CppEndlessRunnerCharacter.h">
+      <Filter>Source\CppEndlessRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CppEndlessRunner\CppEndlessRunnerGameMode.cpp">
+      <Filter>Source\CppEndlessRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppEndlessRunner\CppEndlessRunnerGameMode.h">
+      <Filter>Source\CppEndlessRunner</Filter>
+    </ClInclude>
+    <Filter Include="Source\CppEndlessRunner\Private">
+      <UniqueIdentifier>{1ED96088-5793-3C0D-9070-6FA5FADD5C55}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CppEndlessRunner\Private\RunCharacter.cpp">
+      <Filter>Source\CppEndlessRunner\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CppEndlessRunner\Private\RunCharacterController.cpp">
+      <Filter>Source\CppEndlessRunner\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CppEndlessRunner\Private\RunGameMode.cpp">
+      <Filter>Source\CppEndlessRunner\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CppEndlessRunner\Public">
+      <UniqueIdentifier>{90020D08-A4BE-350E-87E3-8B2C169647E2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CppEndlessRunner\Public\RunCharacter.h">
+      <Filter>Source\CppEndlessRunner\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CppEndlessRunner\Public\RunCharacterController.h">
+      <Filter>Source\CppEndlessRunner\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CppEndlessRunner\Public\RunGameMode.h">
+      <Filter>Source\CppEndlessRunner\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

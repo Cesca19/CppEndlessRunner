@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\fifam\\Projets\\G-TECH3\\Unreal C++ BP\\CppEndlessRunner\\CppEndlessRunner\\Source\\CppEndlessRunner\\CppEndlessRunner.Build.cs",
+		"C:\\Users\\fifam\\Projets\\G-TECH3\\Unreal C++ BP\\CppEndlessRunner\\CppEndlessRunner\\Source\\CppEndlessRunner.Target.cs",
+		"C:\\Users\\fifam\\Projets\\G-TECH3\\Unreal C++ BP\\CppEndlessRunner\\CppEndlessRunner\\Source\\CppEndlessRunnerEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
